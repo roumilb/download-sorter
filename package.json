@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chokidar": "^3.5.2"
+    "chokidar": "^3.5.2",
+    "dotenv": "^16.0.3"
   }
 }
